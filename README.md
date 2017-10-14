@@ -1,3 +1,3 @@
-# practic
+# practice
 
 ## First commit
